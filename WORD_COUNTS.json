@@ -1,0 +1,110 @@
+{
+  "status": "COMPLETE_REVISED_MANUSCRIPT",
+  "actual_story_words": 30190,
+  "drafted_chapters": 12,
+  "required_chapters": 12,
+  "required_story_words_min": 30000,
+  "required_story_words_max": 40000,
+  "planned_story_words": 33600,
+  "method": "Whitespace tokens after excluding Markdown heading and scene-divider lines. Message-block markers count as formatting and are removed below.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Chapter 1 — The Day We Decided to Divorce",
+      "actual_story_words": 2236,
+      "planned_words": 2500,
+      "source": "chapters/01-the-day-we-decided-to-divorce.md",
+      "sha256": "8d0351a4bab57ff697e145a6dadf39c38837df2d9dceb2ff81f3cce58bbdf0d4"
+    },
+    {
+      "chapter": 2,
+      "title": "Chapter 2 — Two Strangers in One Home",
+      "actual_story_words": 2312,
+      "planned_words": 2200,
+      "source": "chapters/02-two-strangers-in-one-home.md",
+      "sha256": "d6fff5a92362d442c52c605494855eeab2ae46fd6c8e0ba7e95745a5ec287827"
+    },
+    {
+      "chapter": 3,
+      "title": "Chapter 3 — Night One: When Did We Stop Being Happy?",
+      "actual_story_words": 2669,
+      "planned_words": 2900,
+      "source": "chapters/03-night-one.md",
+      "sha256": "84ca066d26e6f765dbc24db8f094c24d7b08fd44126aee7a0b265fa510ea279b"
+    },
+    {
+      "chapter": 4,
+      "title": "Chapter 4 — Night Two: The Things We Never Said",
+      "actual_story_words": 2892,
+      "planned_words": 3000,
+      "source": "chapters/04-night-two.md",
+      "sha256": "acec6701d047a0ab22a09d57545313b03a8eeb0ab13cad2b5491bfd65993f624"
+    },
+    {
+      "chapter": 5,
+      "title": "Chapter 5 — Night Three: The People We Used to Be",
+      "actual_story_words": 2372,
+      "planned_words": 3000,
+      "source": "chapters/05-night-three.md",
+      "sha256": "19df409deb0e87a38ece6d00d4955213cf8f49df371b0f00e4f493aff65b07bd"
+    },
+    {
+      "chapter": 6,
+      "title": "Chapter 6 — Night Four: The Love We Learned as Children",
+      "actual_story_words": 2668,
+      "planned_words": 2900,
+      "source": "chapters/06-night-four.md",
+      "sha256": "129c450de89edca0621394e15c1b485cca1098cefda34dbcc1ff311970c44a3a"
+    },
+    {
+      "chapter": 7,
+      "title": "Chapter 7 — Night Five: I Was Right, But I Lost You",
+      "actual_story_words": 2203,
+      "planned_words": 3000,
+      "source": "chapters/07-night-five.md",
+      "sha256": "602a60824829986cfbd97f706728aeecbec27a60d0a7d6bd247b3f3bd503d679"
+    },
+    {
+      "chapter": 8,
+      "title": "Chapter 8 — Night Six: The Apologies That Came Too Late",
+      "actual_story_words": 2300,
+      "planned_words": 3000,
+      "source": "chapters/08-night-six.md",
+      "sha256": "5d0fb33afbffeb666429c4060d05af7d743e60153e31a00c57eed1f0c44258d8"
+    },
+    {
+      "chapter": 9,
+      "title": "Chapter 9 — Night Seven: If We Met Again Today",
+      "actual_story_words": 2190,
+      "planned_words": 3200,
+      "source": "chapters/09-night-seven.md",
+      "sha256": "2fdaa7d57b2cf8ffd1fe4d8b8507b654966ed6afffba4f79ca6102f7b1f1832c"
+    },
+    {
+      "chapter": 10,
+      "title": "Chapter 10 — The Morning After",
+      "actual_story_words": 2271,
+      "planned_words": 2500,
+      "source": "chapters/10-the-morning-after.md",
+      "sha256": "7157d0d35796e450c02de5cd84fe700d9a2041466bf531d989c4590a6695122c"
+    },
+    {
+      "chapter": 11,
+      "title": "Chapter 11 — Learning to Live Alone Again",
+      "actual_story_words": 3534,
+      "planned_words": 2800,
+      "source": "chapters/11-learning-to-live-alone-again.md",
+      "sha256": "17d990c04e38ab6e8e1d7d9e0d3e8177418432a8ab521dbd373627b68d336bce"
+    },
+    {
+      "chapter": 12,
+      "title": "Chapter 12 — Some People Are Chapters, Not the Whole Book",
+      "actual_story_words": 2543,
+      "planned_words": 2600,
+      "source": "chapters/12-some-people-are-chapters.md",
+      "sha256": "1d7d563cba0d777b37c5610cd49269f28b9207169e1ec8888d5cd152087de016"
+    }
+  ],
+  "undrafted_chapters": [],
+  "final_editorial_approval": true
+}
